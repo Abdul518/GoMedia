@@ -32,5 +32,6 @@ Then added the following <dependencies>
       <artifactId>hamcrest-all</artifactId>
       <version>1.3</version>
       
- Please run the project using TestRunner.java runner class.
+ Please run the project using TestRunner.java runner class can be found here src/main/java/runPack/
+ 
      
