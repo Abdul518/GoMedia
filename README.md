@@ -1,10 +1,10 @@
 # GoMedia
 
-# The following softwares were used:
+The following softwares were used:
 > Windows OS 10 64-bit
 > Java JDK 8
-# Created a BDD-Cucumber project with Maven as a project management tool.
-# Then added the following <dependencies>
+Created a BDD-Cucumber project with Maven as a project management tool.
+Then added the following <dependencies>
    
       <artifactId>junit</artifactId>
       <version>4.11</version>
@@ -32,5 +32,5 @@
       <artifactId>hamcrest-all</artifactId>
       <version>1.3</version>
       
- # Please run the project using TestRunner.java runner class.
+ Please run the project using TestRunner.java runner class.
      
